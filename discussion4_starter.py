@@ -61,8 +61,7 @@ class Rectangle():
             else:
                 return "Invalid input"
         else:
-            return "Invalid input"
-    
+            return "Not a valid input"    
 
 
 def main():
